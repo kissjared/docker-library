@@ -8,6 +8,7 @@ kube-proxy-amd64:v1.7.5
 kube-scheduler-amd64:v1.7.5
 kube-controller-manager-amd64:v1.7.5
 kube-apiserver-amd64:v1.7.5
+kubernetes-dashboard-amd64:v1.6.1
 etcd-amd64:3.0.17
 kube-dnsmasq-amd64:1.4.1
 exechealthz-amd64:v1.2.0
