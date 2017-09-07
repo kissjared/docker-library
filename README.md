@@ -13,4 +13,7 @@ etcd-amd64:3.0.17
 kube-dnsmasq-amd64:1.4.1
 exechealthz-amd64:v1.2.0
 pause-amd64:3.0
+heapster-grafana-amd64:v4.4.3
+heapster-influxdb-amd64:v1.3.3
+heapster-amd64:v1.4.0
 ```
