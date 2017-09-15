@@ -16,4 +16,6 @@ pause-amd64:3.0
 heapster-grafana-amd64:v4.4.3
 heapster-influxdb-amd64:v1.3.3
 heapster-amd64:v1.4.0
+nginx-ingress-controller:0.9.0-beta.13
+defaultbackend:1.0
 ```
